@@ -1,5 +1,7 @@
 ## Website Performance Optimization portfolio project
 
+Optimized an inefficient web application's JavaScript, CSS and assets delivery, ensuring it runs at 60fps and achieves a PageSpeed score of at least 90.
+
 Original project: https://github.com/udacity/frontend-nanodegree-mobile-portfolio
 
 Optimized to:
